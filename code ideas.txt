@@ -1,0 +1,12 @@
+- auto crossword solver
+	- search google for answers then 	type them into the crossword website
+	OR
+	- make it analyze the question and 	try to decipher the answer itself
+- voice chat bot using my own voice
+	- record myself saying every phoneme 	in cmudict and then just run it 	through there and pick the 	corresponding mp3 files and play 	them in order
+- program that writes a hello world program
+	- just for shits and giggles lol
+- headline stock analysis
+	- crawls WSJ (maybe other websites 	as well), finds headlines, use 	plotline analysis on the article to 	find out whether the stock will drop 	or rise, then check if right
+	- can use plotline to compare past 	news stories with the stock price 	and see if there's a correlation
+	- using quantifiers from plotline 	analysis, maybe predict percentage 	of stock rise based off past 	rise/falls in that company's stock
