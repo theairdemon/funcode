@@ -1,0 +1,5 @@
+advent of code day 9
+
+use a dictionary to store values from list
+
+if index exceeds len(list), add to dict with init value of 0 
